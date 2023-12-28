@@ -13,6 +13,10 @@ The following environment variables should be defined in your `.env` file:
 - **MYSQL_USERNAME**: The username for MySQL database access. Set it to `user` for docker.
 - **MYSQL_PASSWORD**: The password for MySQL database access. Set it to `user` for docker.
 
+### NGINX Ports
+- **NGINX_PORT**: The default HTTP port for NGINX. Set it to `80`.
+- **NGINX_HTTPS_PORT**: The default HTTPS port for NGINX. Set it to `443`.
+
 ### Pagination settings
 - **MYSQL_LIMIT**: The maximum number of rows of data to return as a result of the query.
 - **MYSQL_OFFSET**: The offset from which the returned rows of data should start.
