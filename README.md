@@ -23,8 +23,8 @@ The following environment variables should be defined in your `.env` file:
 - **ADMIN_PASSWORD**: The password for admin page access.
 
 ## Api Reference
-[http://localhost:3000/api/v1/]
-[http://localhost/api/v1/] (with nginx)
+[http://localhost:3000/api/v1/](http://localhost:3000/api/v1/)
+[http://localhost/api/v1/](http://localhost/api/v1/) (with nginx)
 
 ## Running the app with DOCKER
 ## Installation first time only!
